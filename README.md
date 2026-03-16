@@ -12,8 +12,6 @@ Most of my projects come from curiosity: wanting to understand how loans get app
 
 **Data & ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Streamlit
 
-**Web:** React, FastAPI, Vite, PostgreSQL, SQLAlchemy
-
 **Tools:** Git, VS Code, Jupyter, Google Colab
 
 ---
