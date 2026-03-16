@@ -25,6 +25,7 @@ Most of my projects come from curiosity: wanting to understand how loans get app
 🛒 [**Amazon Discount Effect Analysis**](https://github.com/Huni-code/Amazon-Product-Discount-Effect-Analysis) — EDA on 1,465 Amazon products exploring how discount rates affect revenue, ratings, and purchase volume. Includes a Streamlit dashboard.
 
 🏀 [**NBA Win Predictor**](https://github.com/Huni-code/NBA-prediction) — Full-stack app that predicts NBA game outcomes using ELO ratings, advanced stats, injury reports, and betting odds. Built with FastAPI + React + PostgreSQL.
+
 ---
 
 ### 📫 Reach Me
