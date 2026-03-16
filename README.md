@@ -8,9 +8,9 @@ Most of my projects come from curiosity: wanting to understand how loans get app
 
 ### 🔧 What I Work With
 
-**Languages:** Python, R, SQL
+**Languages:** Python, R, SQL, Vega-Lite
 
-**Data & ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Streamlit
+**Data & ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Streamlit, Adaboost
 
 **Tools:** Git, VS Code, Jupyter, Google Colab
 
