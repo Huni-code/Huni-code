@@ -18,14 +18,13 @@ Most of my projects come from curiosity: wanting to understand how loans get app
 
 ### 📌 Projects
 
-🏀 [**NBA Win Predictor**](https://github.com/Huni-code/NBA-prediction) — Full-stack app that predicts NBA game outcomes using ELO ratings, advanced stats, injury reports, and betting odds. Built with FastAPI + React + PostgreSQL.
+🎲 [**Yut Nori**](https://github.com/Huni-code/Yut-Nori) — Digital version of a Korean traditional board game built with Python and guizero. Features shortcut paths, piece selection, and turn-based gameplay.
 
 📊 [**Loan Approval Risk Analysis**](https://github.com/Huni-code/Loan-Approval-Risk-Analysis) — ML classification project comparing Logistic Regression, Random Forest, and AdaBoost with SMOTE and cross-validation to predict loan approvals.
 
 🛒 [**Amazon Discount Effect Analysis**](https://github.com/Huni-code/Amazon-Product-Discount-Effect-Analysis) — EDA on 1,465 Amazon products exploring how discount rates affect revenue, ratings, and purchase volume. Includes a Streamlit dashboard.
 
-🎲 [**Yut Nori**](https://github.com/Huni-code/Yut-Nori) — Digital version of a Korean traditional board game built with Python and guizero. Features shortcut paths, piece selection, and turn-based gameplay.
-
+🏀 [**NBA Win Predictor**](https://github.com/Huni-code/NBA-prediction) — Full-stack app that predicts NBA game outcomes using ELO ratings, advanced stats, injury reports, and betting odds. Built with FastAPI + React + PostgreSQL.
 ---
 
 ### 📫 Reach Me
