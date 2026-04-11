@@ -25,7 +25,7 @@ Most of my projects come from curiosity: wanting to understand how loans get app
 
 🦺 [**SafePatrol**](https://github.com/Huni-code/SafePatrol) — Real-time PPE detection system for construction sites using YOLOv8 and MediaPipe. Built with FastAPI, WebSocket, and React. Built at GrizzHacks 8.
 
-🗓️ [**Knight Scheduler**](https://github.com/Huni-code/Knight_Scheduler-) — Course schedule optimizer connecting to Calvin's live course data via Workato API. Built at Abstraction @ Calvin University. Placed 3rd.
+🗓️ [**Knight Scheduler**](https://github.com/Huni-code/Knight_Scheduler-) — Course schedule optimizer connecting to Calvin's live course data via Workato API. Built at Abstraction Hackathon @ Calvin University. Placed 3rd.
 
 🎲 [**Yut Nori**](https://github.com/Huni-code/Yut-Nori) — Digital version of a Korean traditional board game built with Python and guizero. Features shortcut paths, piece selection, and turn-based gameplay.
 
