@@ -25,11 +25,13 @@ Most of my projects come from curiosity: wanting to understand how loans get app
 
 🦺 [**SafePatrol**](https://github.com/Huni-code/SafePatrol) — Real-time PPE detection system for construction sites using YOLOv8 and MediaPipe. Built with FastAPI, WebSocket, and React. Built at GrizzHacks 8.
 
-🛒 [**Amazon Discount Effect Analysis**](https://github.com/Huni-code/Amazon-Product-Discount-Effect-Analysis) — EDA on 1,465 Amazon products exploring how discount rates affect revenue, ratings, and purchase volume. Includes a Streamlit dashboard.
+🗓️ [**Knight Scheduler**](https://github.com/Huni-code/Knight_Scheduler-) — Course schedule optimizer connecting to Calvin's live course data via Workato API. Built at Abstraction @ Calvin University. Placed 3rd.
 
 🎲 [**Yut Nori**](https://github.com/Huni-code/Yut-Nori) — Digital version of a Korean traditional board game built with Python and guizero. Features shortcut paths, piece selection, and turn-based gameplay.
 
 🏀 [**NBA Win Predictor**](https://github.com/Huni-code/NBA-prediction) — Full-stack app that predicts NBA game outcomes using ELO ratings, advanced stats, injury reports, and betting odds. Built with FastAPI + React + PostgreSQL.
+
+🛒 [**Amazon Discount Effect Analysis**](https://github.com/Huni-code/Amazon-Product-Discount-Effect-Analysis) — EDA on 1,465 Amazon products exploring how discount rates affect revenue, ratings, and purchase volume. Includes a Streamlit dashboard.
 
 ---
 
